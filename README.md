@@ -1,1 +1,1 @@
-# Say-Tahm-n-Etme
+Oyunu başlatmak için `go run main.go`
